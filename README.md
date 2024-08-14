@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository showcases a microservices architecture demonstrating the integration of various technologies including Python, Kubernetes, RabbitMQ, MongoDB, and MySQL. The system is designed to be scalable, reliable, and maintainable with each component handling specific functionalities.
+This repository showcases a microservices architecture demonstrating the integration of various technologies including Python, Kubernetes, RabbitMQ, MongoDB, and MySQL. The system is designed to be scalable, reliable, and maintainable with each component handling specific functionalities. This is a freecodecamp inspired project.
 
 ### Technologies Used
 
@@ -79,9 +79,4 @@ Each microservice has its own set of API endpoints. Check the documentation in e
 
 Configuration files are located in the `config` directory. Update these files with your environment-specific settings, including database connections, RabbitMQ settings, and other service configurations.
 
-## Testing
 
-To run tests locally for each microservice:
-
-```bash
-pytest
